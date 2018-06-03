@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config_jsx",
+  "version": "1.0.0",
+  "description": "eslint settings for most projects with jsx",
+  "main": "main.js",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bryantVail/eslint-config_jsx"
+  },
+  "author": "Bryant Vail",
+  "license": "ISC"
+}
